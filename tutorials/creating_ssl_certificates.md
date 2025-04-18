@@ -1,3 +1,4 @@
+![Screenshot_20250411-103229](https://github.com/user-attachments/assets/5557e46b-8040-4b08-9b3c-ba09f7c2bbad)
 # Creating SSL Certificates
 
 This tutorial briefly covers creating new SSL certificates for your panel and wings.
